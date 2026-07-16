@@ -41,6 +41,7 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Abhilashreddy8984
-- LinkedIn: https://www.linkedin.com/in/abhilash-reddy-gaddam-4830983b9
+- LinkedIn: www.linkedin.com/in/abhilash-reddy-gaddam
+
 
 ⭐ Always learning. Always building.
