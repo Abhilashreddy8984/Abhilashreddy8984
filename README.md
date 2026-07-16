@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Gaddam Abhilash Reddy
 
-<!--
-**Abhilashreddy8984/Abhilashreddy8984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at MLR Institute of Technology
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about Python, AI, Machine Learning, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Data Structures & Algorithms
+- 💻 Building Python Projects
+- 🤖 Interested in AI & Machine Learning
+- 🏆 Participating in Hackathons
+- 🎯 Goal: Software Engineer / AI Engineer
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- C
+- Git
+- GitHub
+- VS Code
+- Tkinter
+
+---
+
+## 📂 Featured Projects
+
+- 🩸 Blood Bank Management System
+- 🔐 Password Generator
+- 🎮 Hangman Game
+- 🔢 Guess The Number
+- 🔑 Caesar Cipher
+- 💰 Silent Auction System
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Abhilashreddy8984
+- LinkedIn: https://www.linkedin.com/in/abhilash-reddy-gaddam
+
+⭐ Always learning. Always building.
